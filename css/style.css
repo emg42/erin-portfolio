@@ -1257,7 +1257,9 @@ input[type="text"] {
   box-shadow: none;
   border-color: #40dbdd;
 }
-
+.row {
+  margin-right: 14px;
+}
 .row-pb-md {
   padding-bottom: 4em !important;
 }
