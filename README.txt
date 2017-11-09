@@ -1,3 +1,5 @@
+I did use a template from the author listed below for my portfolio project. I also edited out the parts that weren't applicable to my own portfolio and changed styling so it was more suited to me.
+
 
 TITLE: 
 Profile - 100% Fully Responsive Free HTML5 Bootstrap Template
